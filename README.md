@@ -26,6 +26,4 @@ var Emoji = require('react-native-emoji');
 
 - `name` (String) - Emoji's name ([full list](http://unicodey.com/emoji-data/table.htm))
 
-### Credits
 
-Based on [node-emoji](https://github.com/omnidan/node-emoji).
